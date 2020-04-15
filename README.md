@@ -5,4 +5,6 @@ The Tandy 1000 EX SmartWatch+ module adds a Clock & Calendar to your 1000 EX. Al
 
 I made this design because the original SmartWatch batteries are now mostly dead and can't be replaced. The 1000 SmartWatch+ uses a standard CR1632 Lithium coin cell for long life and easy replacement.
 
+Y2K SmartWatch Software is here: https://www.dropbox.com/s/kctqpwzjxgymfz9/smwy2k.zip?dl=0
+
 My Store can be found here: https://www.tindie.com/stores/CyberneticSys/
